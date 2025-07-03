@@ -28,7 +28,7 @@ Contributed by Olfa Adouni, Alaa Bessadok, Ridha ejbali and Hedi Sakli.
 </table>
 
 ## [ 1 Multimodal data integration](#content)
-
+### [1.1 Inter-Modality integration](#content)
 
 1. **Deepasd: a deep adversarial-regularized graph learning method for asd diagnosis with multimodal data** [Paper](https://doi.org/10.1038/s41398-024-02972-2)
    
@@ -64,7 +64,7 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
 
     *Insu Jeon, Minjoong Kim, Dayeong So, Eun Young Kim, Yunyoung Nam, Seungsoo Kim, Sehoon Shim, Joungmin Kim, and Jihoon Moon*
 
-
+### [1.1 Intra-Modality integration](#content)
 1. **Classification of Preschoolers with Low-Functioning Autism Spectrum Disorder Using Multimodal MRI Data** [Paper](https://doi.org/10.1007/s10803-021-05368-z)
 
    *ohanna Inhyang Kim, Sungkyu Bang, Jin-Ju Yang, Heejin Kwon, Soomin Jang, Sungwon Roh, Seok Hyeon Kim, Mi Jung Kim, Hyun Ju Lee, Jong-Min Lee, et al*
