@@ -17,7 +17,7 @@ Contributed by Olfa Adouni, Alaa Bessadok, Ridha ejbali and Hedi Sakli.
 <tr><td colspan="2"><a href="#survey-papers">2 Intervention strategies with LLMs </a></td></tr> 
 
 <tr>
-    <td>&ensp;<a href="#basic-models">2.1 Diagnosis and Behavior Recognition </a></td>
+    <td>&ensp;<a href="# 1 Multimodal data integration">2.1 Diagnosis and Behavior Recognition </a></td>
     <td>&ensp;<a href="#graph-types">2.2 Educational and Emotional Interventions</a></td>
 </tr>
 <tr>
@@ -27,7 +27,7 @@ Contributed by Olfa Adouni, Alaa Bessadok, Ridha ejbali and Hedi Sakli.
 
 </table>
 
-## [ 1 Multimodal data integration](#content)
+## [1 Multimodal data integration](#content)
 ### [1.1 Inter-Modality integration](#content)
 
 1. **Deepasd: a deep adversarial-regularized graph learning method for asd diagnosis with multimodal data** [Paper](https://doi.org/10.1038/s41398-024-02972-2)
