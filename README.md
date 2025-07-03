@@ -30,66 +30,46 @@ Contributed by Olfa Adouni, Alaa Bessadok, Ridha ejbali and Hedi Sakli.
 ## [ 1 Multimodal data integration](#content)
 
 
-1. **Deepasd: a deep adversarial-regularized graph learning method for asd diagnosis with multimodal data** [paper](https://doi.org/10.1038/s41398-024-02972-2)
+1. **Deepasd: a deep adversarial-regularized graph learning method for asd diagnosis with multimodal data** [Paper](https://doi.org/10.1038/s41398-024-02972-2)
    
     *Wanyi Chen, Jianjun Yang, Zhongquan Sun, Xiang Zhang, Guangyu Tao, Yuan Ding, Jingjun Gu, Jiajun Bu, and Haishuai Wang.* 
 
-1. **Enhanced special needs assess- ment: A multimodal approach for autism prediction.**. [paper](https://ieeexplore.ieee.org/abstract/document/10663408)
+1. **Enhanced special needs assess- ment: A multimodal approach for autism prediction.**. [Paper](https://ieeexplore.ieee.org/abstract/document/10663408)
 
     *Suseela Sellamuthu and Sharon Rose*
     
-1. **Adversarial Attack and Defense on Graph Data: A Survey.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.10528.pdf)
+1. **Multimodal machine learning for early detection of autism in children: Integrating gestures and mood analysis.** [Paper](https://ieeexplore.ieee.org/document/10842696)
 
-    *Lichao Sun, Yingtong Dou, Carl Yang, Ji Wang, Philip S. Yu, Bo Li.* 
+    *Chetan Puri, Ujwala Ghodeswar, KT V Reddy, Mansi Sharma, and Sahil Warudkar* 
 
-1. **Deep Learning on Graphs: A Survey.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf)
+1. **Application of machine learning techniques to detect the children with autism spectrum disorder.**  [paper]
+  (https://doi.org/10.1155/2022/9340027)
 
-    *Ziwei Zhang, Peng Cui, Wenwu Zhu.*
+    *Mengyi Liao, Hengyao Duan, and Guangshuai Wang*
 
-1. **Relational Inductive Biases, Deep Learning, and Graph Networks.** arxiv 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
+1. **Multimodal data fusion framework for early prediction of autism spectrum disorder** [Paper](https://doi.org/10.1155/hbe2/1496105)
 
-    *Battaglia, Peter W and Hamrick, Jessica B and Bapst, Victor and Sanchez-Gonzalez, Alvaro and Zambaldi, Vinicius and Malinowski, Mateusz and Tacchetti, Andrea and Raposo, David and Santoro, Adam and Faulkner, Ryan and others.*
+    *Mohemmed Sha, Hussein Al-Dossary, and Mohamudha Parveen Ra-hamathulla*
 
-1. **Geometric Deep Learning: Going beyond Euclidean data.** IEEE SPM 2017. [paper](https://arxiv.org/pdf/1611.08097.pdf)
+1. **machine learning and integration based architecture for cognitive disorder detection used for early autism screening**  [Paper](https://doi.org/10.3390/electronics9030516)
 
-    *Bronstein, Michael M and Bruna, Joan and LeCun, Yann and Szlam, Arthur and Vandergheynst, Pierre.*
+    *Jes´us Peral, David Gil, Sayna Rotbei, Sandra Amador, Marga Guerrero, and Hadi Moradi.*
 
-1. **Computational Capabilities of Graph Neural Networks.** IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4703190)
+1. **Multimodal kernel-based discriminant correlation analysis data-fusion approach: an automated autism spectrum disorder
+diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
 
-    *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.*
+    *Tanu Wadhera*
 
-1. **Neural Message Passing for Quantum Chemistry.** ICML 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
+1. **Reliable autism spectrum disorder diagnosis for pediatrics using machine learning and explainable AI** [Paper](https://doi.org/10.3390/diagnostics14222504)
 
-    *Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.*
+    *Insu Jeon, Minjoong Kim, Dayeong So, Eun Young Kim, Yunyoung Nam, Seungsoo Kim, Sehoon Shim, Joungmin Kim, and Jihoon Moon*
 
-1. **Non-local Neural Networks.** CVPR 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf)
 
-    *Wang, Xiaolong and Girshick, Ross and Gupta, Abhinav and He, Kaiming.*
+1. **Classification of Preschoolers with Low-Functioning Autism Spectrum Disorder Using Multimodal MRI Data** [Paper](https://doi.org/10.1007/s10803-021-05368-z)
 
-1. **The Graph Neural Network Model.** IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
+   *ohanna Inhyang Kim, Sungkyu Bang, Jin-Ju Yang, Heejin Kwon, Soomin Jang, Sungwon Roh, Seok Hyeon Kim, Mi Jung Kim, Hyun Ju Lee, Jong-Min Lee, et al*
 
-    *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.*
-    
-1. **Benchmarking Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00982.pdf)
 
-    *Dwivedi, Vijay Prakash and Joshi, Chaitanya K. and Laurent, Thomas and Bengio, Yoshua and Bresson, Xavier.*
-
-1. **Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey.** arxiv 2020. [paper](https://arxiv.org/abs/2005.07496)
-
-    *Skarding, Joakim and Gabrys, Bogdan and Musial, Katarzyna.*
-
-1. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/abs/2002.11867)
-
-    *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu.*
-    
-1. **Explainability in Graph Neural Networks: A Taxonomic Survey.** arxiv 2020. [paper](https://arxiv.org/abs/2012.15445)
-
-    *Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji.*
-
-1. **Self-Supervised Learning of Graph Neural Networks: A unified view.** TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9764632)
-
-    *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
-    
 ## [Models](#content)   
 
 ### [Basic Models](#content)
