@@ -5,24 +5,24 @@ Contributed by Olfa Adouni, Alaa Bessadok, Ridha ejbali and Hedi Sakli.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers"> 1 Multimodal data integration</a></td></tr> 
+<tr><td colspan="2"><a href="#1 Multimodal data integration"> 1 Multimodal data integration</a></td></tr> 
 
 <tr>
-    <td>&ensp;<a href="#basic-models">1.1 Inter-Modality integration</a></td>
-    <td>&ensp;<a href="#graph-types">1.2 Intra-Modality integration</a></td>
+    <td>&ensp;<a href="#1.1 Inter-Modality integration">1.1 Inter-Modality integration</a></td>
+    <td>&ensp;<a href="#1.2 Intra-Modality integration">1.2 Intra-Modality integration</a></td>
 </tr>
 
 
 
-<tr><td colspan="2"><a href="#survey-papers">2 Intervention strategies with LLMs </a></td></tr> 
+<tr><td colspan="2"><a href="#2 Intervention strategies with LLMs">2 Intervention strategies with LLMs </a></td></tr> 
 
 <tr>
-    <td>&ensp;<a href="# 1 Multimodal data integration">2.1 Diagnosis and Behavior Recognition </a></td>
-    <td>&ensp;<a href="#graph-types">2.2 Educational and Emotional Interventions</a></td>
+    <td>&ensp;<a href="#2.1 Diagnosis and Behavior Recognition">2.1 Diagnosis and Behavior Recognition </a></td>
+    <td>&ensp;<a href="#2.2 Educational and Emotional Interventions">2.2 Educational and Emotional Interventions</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#pooling-methods">2.3 Social and Workplace Skill Development</a></td>
-    <td>&ensp;<a href="#analysis">2.4 Daily Life Assistance</a></td>
+    <td>&ensp;<a href="#2.3 Social and Workplace Skill Development">2.3 Social and Workplace Skill Development</a></td>
+    <td>&ensp;<a href="#2.4 Daily Life Assistance">2.4 Daily Life Assistance</a></td>
 </tr>
 
 </table>
@@ -64,15 +64,49 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
 
     *Insu Jeon, Minjoong Kim, Dayeong So, Eun Young Kim, Yunyoung Nam, Seungsoo Kim, Sehoon Shim, Joungmin Kim, and Jihoon Moon*
 
-### [1.1 Intra-Modality integration](#content)
+### [1.2 Intra-Modality integration](#content)
 1. **Classification of Preschoolers with Low-Functioning Autism Spectrum Disorder Using Multimodal MRI Data** [Paper](https://doi.org/10.1007/s10803-021-05368-z)
 
    *ohanna Inhyang Kim, Sungkyu Bang, Jin-Ju Yang, Heejin Kwon, Soomin Jang, Sungwon Roh, Seok Hyeon Kim, Mi Jung Kim, Hyun Ju Lee, Jong-Min Lee, et al*
 
+1. **DeepMNF: Deep Multimodal Neuroimaging Framework for Diagnosing Autism Spectrum Disorder** [Paper](https://doi.org/10.1016/j.artmed.2022.102475)
 
+   *S Qasim Abbas, Lianhua Chi, and Yi-Ping Phoebe Chen*
 
-   
+1. **AMA-GCN: adaptive multi-layer aggregation graph convolutional network for disease prediction** [Paper]
+    (https://doi.org/10.48550/arXiv.2106.08732)
 
+   *Hao Chen, Fuzhen Zhuang, Li Xiao, Ling Ma, Haiyan Liu, Ruifang Zhang, Huiqin Jiang, and Qing He*
+
+1. **Multimodal Autism Spectrum Disorder Diagnosis Method Based on DeepGCN** [Paper]
+    (10.1109/TNSRE.2023.3314516)
+
+   *Mingzhi Wang, Jifeng Guo, Yongjie Wang, Ming Yu, and Jingtan Guo.*
+
+1. **Multichannel deep attention neural networks for the classification of autism spectrum disorder using neuroimaging and personal characteristic data.** [Paper]
+    (https://doi.org/10.1155/2020/1357853)
+
+   *Ke Niu, Jiayang Guo, Yijie Pan, Xin Gao, Xueping Peng, Ning Li, and Hailong Li*
+
+1. **Deepgcn based on variable multi-graph and multimodal data for ASD diagnosis.** [Paper]
+    (https://doi.org/10.1049/cit2.12340)
+
+   *Shuaiqi Liu, Siqi Wang, Chaolei Sun, Bing Li, Shuihua Wang, and Fei Li*
+
+1. **Twinned neuroimaging analysis contributes to improving the classification of young people with autism spectrum disorder.** [Paper]
+    (https://doi.org/10.1038/s41598-024-71174-z)
+
+   *li Jahani, Iman Jahani, Ali Khadem, B Blair Braden, Mehdi Delrobaei, and Bradley J MacIntosh*
+
+1. **Enhancing early diagnosis of autism spectrum disorder using multimodal data and explainable AI models.** [Paper]
+    (10.1109/BigData62323.2024.10825173)
+
+   *Yeganeh Abdollahinejad and Md Faisal Kabir*
+
+1. **An intelligent approach for autism spectrum disorder diagnosis and rehabilitation features identification..** [Paper]
+    (https://doi.org/10.1007/s00521-024-10770-6)
+
+   *Rawan Ghnemat, Nailah Al-Madi, and Mohammad Awad*
 
 
 
