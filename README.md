@@ -111,4 +111,106 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
 
 
 
-    *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
+
+## [2 Intervention strategies with LLMs](#content)
+### [2.1 Diagnosis and Behavior Recognition](#content)
+
+1. **Copiloting diagnosis of autism in real clinical scenarios via LLMs** [Paper]
+ (https://doi.org/10.48550/arXiv.2410.05684)
+   
+    *Yi Jiang, Qingyang Shen, Shuzhong Lai, Shunyu Qi, Qian Zheng, Lin Yao, Yueming Wang, and Gang Pan.* 
+
+
+1. **ChatASD: A Dialogue Framework for LLMs Enhanced by Autism Knowledge Graph Retrieval** [Paper]
+ (https://doi.org/10.1145/3698587.3701538)
+   
+    *Lei Chu, Hongyan Wu, and Yi Pan.*
+   
+1. **Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features** [Paper]
+   (https://pmc.ncbi.nlm.nih.gov/articles/PMC11142355/)
+   
+    *Chuanbo Hu, Wenqi Li, Mindi Ruan, Xiangxu Yu, Lynn K Paul, Shuo Wang, and Xin Li.*
+
+1. **Hear me, see me, understand me: Audio-visual autism behavior recognition** [Paper]
+   (10.1109/TMM.2024.3521838)
+   
+    *Shijian Deng, Erin E Kosloski, Siddhi Patel, Zeke A Barnett, Yiyang Nan, Alexander Kaplan, Sisira Aarukapalli, William T Doan, Matthew Wang, Harsh Singh, et al.*
+
+1. **Towards child-inclusive clinical video understanding for autism spectrum disorder** [Paper]
+   (https://doi.org/10.48550/arXiv.2409.13606)
+   
+    *Aditya Kommineni, Digbalay Bose, Tiantian Feng, So Hyun Kim, Helen Tager-Flusberg, Somer Bishop, Catherine Lord, Sudarsana Kadiri, and Shrikanth Narayanan*
+
+   1. **Multimodal integration, fine tuning of large language model for autism support** [Paper]
+   (10.1109/ICMCSI61536.2024.00099)
+   
+    *Krishna Pai, Vidhita Jagwani, Shivalik Pandita, and Dhananjay Kalbande.*
+
+    1. **SocialRecNet: A Multimodal LLM-Based Framework for Assessing Social Reciprocity in Autism Spectrum Disorder** [Paper]
+   (10.1109/ICASSP49660.2025.10888811)
+   
+    *Xin-Yu Chen, Yu-Ming Chen, Chin-Po Chen, Bo-Hao Su, Susan ShurFen Gau, and Chi-Chun Lee.*
+
+
+
+
+
+### [2.2 Educational and Emotional Interventions](#content)
+
+
+   1. **Emoeden: Applying generative artificial intelligence to emotional learning for children with high-function autism.** [Paper]
+   (https://doi.org/10.1145/3613904.3642899)
+   
+    *Yilin Tang, Liuqing Chen, Ziyu Chen, Wenkai Chen, Yu Cai, Yao Du, Fan Yang, and Lingyun Sun.*
+
+     
+
+1. **Asd-chat: An innovative dialogue intervention system for children with autism based on llm and vb-mapp** [Paper]
+   (https://doi.org/10.48550/arXiv.2409.01867)
+   
+    *Chengyun Deng, Shuzhong Lai, Chi Zhou, Mengyi Bao, Jingwen Yan, Haifeng Li, Lin Yao, and Yueming Wang.*
+
+
+### [2.3 Social and Workplace Skill Development](#content)
+
+1. **Echo-teddy: Preliminary design and development of large language model-based social robot for autistic students** [Paper]
+   (https://doi.org/10.48550/arXiv.2502.04029)
+   
+    *Unggi Lee, Hansung Kim, Juhong Eom, Hyeonseo Jeong, Seungyeon Lee, Gyuri Byun, Yunseo Lee, Minji Kang, Gospel Kim, Jihoi Na, et al.*
+
+
+1. **Designing a LLM-driven Avatar System to Enhance Social Skills for Autistic Children in DTT Learning** [Paper]
+   (10.1109/IEIR62538.2024.10959902)
+   
+    *Yihe Zhu, Liang Guo, Jiashu Sun, and Xiaojun Hei.*
+
+   1. **Twips: A large language model powered texting application to simplify conversational nuances for autistic users.** [Paper]
+   (https://doi.org/10.1145/3663548.3675633)
+   
+    *Rukhshan Haroon and Fahad Dogar.*
+
+      1. **“It's the only thing I can trust”: Envisioning large language model use by autistic workers for communication assistance.** [Paper]
+   (https://doi.org/10.1145/3613904.3642894)
+   
+    *JiWoong Jang, Sanika Moharana, Patrick Carrington, and Andrew Begel.*
+
+### [2.4 Daily Life Assistance](#content)
+
+ 1. **Designing LLM-simulated Immersive Spaces to Enhance Autistic Children's Social Affordances Understanding in Traffic Settings.** [Paper]
+   (https://doi.org/10.1145/3708359.3712142)
+   
+    *Yancheng Cao, Yangyang He, Yonglin Chen, Menghan Chen, Shanhe You, Yulin Qiu, Min Liu, Chuan Luo, Chen Zheng, Xin Tong, et al.*
+
+ 1. **Unlock life with a Chat (GPT): Integrating conversational AI with large language models into everyday lives of autistic individuals.** [Paper]
+   (https://doi.org/10.1145/3613904.3641989)
+   
+    *Dasom Choi, Sunok Lee, Sung-In Kim, Kyungah Lee, Hee Jeong Yoo, Sangsu Lee, and Hwajung Hong.*
+
+    1. **Human-mediated large language models for robotic intervention in children with autism spectrum disorders.** [Paper]
+   (https://doi.org/10.48550/arXiv.2402.00260)
+   
+    *Ruchik Mishra, Karla Conn Welch, and Dan O Popa.*
+
+    
+
+   
