@@ -1,4 +1,4 @@
-
+### Literature Review Paper : AI trends in Autism detection and clinical intervention
 
 Contributed by Olfa Adouni, Alaa Bessadok, Ridha ejbali and Hedi Sakli.
 
