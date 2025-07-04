@@ -141,12 +141,12 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
    
     *Aditya Kommineni, Digbalay Bose, Tiantian Feng, So Hyun Kim, Helen Tager-Flusberg, Somer Bishop, Catherine Lord, Sudarsana Kadiri, and Shrikanth Narayanan*
 
-   1. **Multimodal integration, fine tuning of large language model for autism support** [Paper]
+1. **Multimodal integration, fine tuning of large language model for autism support** [Paper]
    (10.1109/ICMCSI61536.2024.00099)
    
     *Krishna Pai, Vidhita Jagwani, Shivalik Pandita, and Dhananjay Kalbande.*
 
-   1. **SocialRecNet: A Multimodal LLM-Based Framework for Assessing Social Reciprocity in Autism Spectrum Disorder** [Paper]
+1. **SocialRecNet: A Multimodal LLM-Based Framework for Assessing Social Reciprocity in Autism Spectrum Disorder** [Paper]
    (10.1109/ICASSP49660.2025.10888811)
    
     *Xin-Yu Chen, Yu-Ming Chen, Chin-Po Chen, Bo-Hao Su, Susan ShurFen Gau, and Chi-Chun Lee.*
