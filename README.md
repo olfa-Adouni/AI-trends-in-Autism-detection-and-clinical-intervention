@@ -146,7 +146,7 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
    
     *Krishna Pai, Vidhita Jagwani, Shivalik Pandita, and Dhananjay Kalbande.*
 
-    1. **SocialRecNet: A Multimodal LLM-Based Framework for Assessing Social Reciprocity in Autism Spectrum Disorder** [Paper]
+   1. **SocialRecNet: A Multimodal LLM-Based Framework for Assessing Social Reciprocity in Autism Spectrum Disorder** [Paper]
    (10.1109/ICASSP49660.2025.10888811)
    
     *Xin-Yu Chen, Yu-Ming Chen, Chin-Po Chen, Bo-Hao Su, Susan ShurFen Gau, and Chi-Chun Lee.*
