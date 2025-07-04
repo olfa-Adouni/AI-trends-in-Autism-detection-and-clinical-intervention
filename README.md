@@ -158,12 +158,12 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
 ### [2.2 Educational and Emotional Interventions](#content)
 
 
-   1. **Emoeden: Applying generative artificial intelligence to emotional learning for children with high-function autism.** [Paper]
+1. **Emoeden: Applying generative artificial intelligence to emotional learning for children with high-function autism.** [Paper]
    (https://doi.org/10.1145/3613904.3642899)
    
     *Yilin Tang, Liuqing Chen, Ziyu Chen, Wenkai Chen, Yu Cai, Yao Du, Fan Yang, and Lingyun Sun.*
 
-    1. **Asd-chat: An innovative dialogue intervention system for children with autism based on llm and vb-mapp** [Paper]
+1. **Asd-chat: An innovative dialogue intervention system for children with autism based on llm and vb-mapp** [Paper]
    (https://doi.org/10.48550/arXiv.2409.01867)
    
     *Chengyun Deng, Shuzhong Lai, Chi Zhou, Mengyi Bao, Jingwen Yan, Haifeng Li, Lin Yao, and Yueming Wang.*
@@ -186,13 +186,13 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
    
     *Yihe Zhu, Liang Guo, Jiashu Sun, and Xiaojun Hei.*
 
-   1. **Twips: A large language model powered texting application to simplify conversational nuances for autistic users.** [Paper]
+1. **Twips: A large language model powered texting application to simplify conversational nuances for autistic users.** [Paper]
    (https://doi.org/10.1145/3663548.3675633)
    
     *Rukhshan Haroon and Fahad Dogar.*
 
 
-    1. **“It's the only thing I can trust”: Envisioning large language model use by autistic workers for communication assistance.** [Paper]
+1. **“It's the only thing I can trust”: Envisioning large language model use by autistic workers for communication assistance.** [Paper]
    (https://doi.org/10.1145/3613904.3642894)
    
     *JiWoong Jang, Sanika Moharana, Patrick Carrington, and Andrew Begel.*
@@ -214,7 +214,7 @@ diagnostic system.** [Paper](https://doi.org/10.1007/s13246-023-01350-4)
     *Dasom Choi, Sunok Lee, Sung-In Kim, Kyungah Lee, Hee Jeong Yoo, Sangsu Lee, and Hwajung Hong.*
 
 
-    1. **Human-mediated large language models for robotic intervention in children with autism spectrum disorders.** [Paper]
+1. **Human-mediated large language models for robotic intervention in children with autism spectrum disorders.** [Paper]
    (https://doi.org/10.48550/arXiv.2402.00260)
    
     *Ruchik Mishra, Karla Conn Welch, and Dan O Popa.*
