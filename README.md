@@ -50,7 +50,7 @@ Contributed by Olfa Adouni, Alaa Bessadok, Ridha ejbali and Hedi Sakli.
 
     *Mohemmed Sha, Hussein Al-Dossary, and Mohamudha Parveen Ra-hamathulla*
 
-1. **machine learning and integration based architecture for cognitive disorder detection used for early autism screening**  [Paper(https://doi.org/10.3390/electronics9030516)
+1. **machine learning and integration based architecture for cognitive disorder detection used for early autism screening**  [Paper](https://doi.org/10.3390/electronics9030516)
 
     *Jes´us Peral, David Gil, Sayna Rotbei, Sandra Amador, Marga Guerrero, and Hadi Moradi.*
 
