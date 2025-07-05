@@ -1,6 +1,29 @@
-### Literature Review Paper : AI trends in Autism detection and clinical intervention
+### Literature Review Paper: AI trends in Autism detection and clinical intervention
 
 Contributed by Olfa Adouni, Alaa Bessadok and Hedi Sakli.
+
+## Overview
+
+Get inspired from this paragraph:
+This repository serves as a collection of recent advancements in employing self-supervised learning (SSL) across nine diverse recommendation scenarios, such as Collaborative Filtering, Sequential Recommendation, and more. We categorize and summarize the approaches based on three primary self-supervised frameworks: 1) Contrastive Learning, 2) Generative Learning, and 3) Adversarial Learning.
+
+Put here the figure of Taxonomy.
+
+## News
+
+We're actively working on this project, and your interest is greatly appreciated! To keep up with the latest developments, please consider hit the STAR 🌟, WATCH for updates 🤗 and help contribute this list by pull request.
+
+Our review paper is submitted to a journal and is under revision. Stay tuned ;)
+
+We hope this repository proves valuable to your research or practice in the field of AI application to Autism Spectrum Disorder. If you find it helpful, please consider citing our work:
+
+Will be updated:
+@article{ren2024comprehensive,
+  title={A Comprehensive Survey on Self-Supervised Learning for Recommendation},
+  author={Ren, Xubin and Wei, Wei and Xia, Lianghao and Huang, Chao},
+  journal={arXiv preprint arXiv:2404.03354},
+  year={2024}
+}
 
 ## [Content](#content)
 
