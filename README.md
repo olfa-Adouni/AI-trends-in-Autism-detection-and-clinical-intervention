@@ -10,6 +10,8 @@ This repository offers a comprehensive synthesis of recent AI advancements for a
 
 ![image alt](https://github.com/olfa-Adouni/AI-trends-in-Autism-detection-and-clinical-intervention/blob/7f12d7c5a0b9500ee2806e14a1ceea5f9ecc2ef7/fig2.jpg) 
 
+Taxonomy of AI applications in autism detection and intervention, categorizing reviewed studies into multimodal data integration (inter- and intra-modality) and intervention strategies with LLMs targeting diagnosis, behavior recognition, educational, emotional, social, workplace, and daily life assistance domains.
+
 
 ## News
 
