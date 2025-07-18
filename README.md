@@ -4,10 +4,12 @@ Contributed by Olfa Adouni, Alaa Bessadok and Hedi Sakli.
 
 ## Overview
 
-Get inspired from this paragraph:
-This repository serves as a collection of recent advancements in employing self-supervised learning (SSL) across nine diverse recommendation scenarios, such as Collaborative Filtering, Sequential Recommendation, and more. We categorize and summarize the approaches based on three primary self-supervised frameworks: 1) Contrastive Learning, 2) Generative Learning, and 3) Adversarial Learning.
+This repository offers a comprehensive synthesis of recent AI advancements for autism spectrum disorder (ASD) care, focusing on two main areas: multimodal data integration for early detection and Large Language Models (LLMs) for personalized clinical intervention. We categorize and summarize approaches across these domains, highlighting: (1) Inter- and intra-modality integration strategies for combining neuroimaging, behavioral, and demographic data to enhance diagnostic accuracy, and (2) LLM-based frameworks supporting individualized treatment planning, education, social skills development, and daily life assistance. This collection provides a structured overview of current methodologies, datasets, and AI techniques shaping scalable and personalized autism care.
 
-Put here the figure of Taxonomy.
+
+
+![image alt](https://github.com/olfa-Adouni/AI-trends-in-Autism-detection-and-clinical-intervention/blob/7f12d7c5a0b9500ee2806e14a1ceea5f9ecc2ef7/fig2.jpg) 
+
 
 ## News
 
