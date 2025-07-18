@@ -21,10 +21,10 @@ We hope this repository proves valuable to your research or practice in the fiel
 
 Will be updated:
 @article{ren2024comprehensive,
-  title={A Comprehensive Survey on Self-Supervised Learning for Recommendation},
-  author={Ren, Xubin and Wei, Wei and Xia, Lianghao and Huang, Chao},
-  journal={arXiv preprint arXiv:2404.03354},
-  year={2024}
+  title={AI trends in Autism detection and clinical intervention},
+  author={Olfa Adouni, Alaa Bessadok, Ridha Ejbali, Hedi Sakli},
+  journal={Computers in Biology and Medicine},
+  year={2025}
 }
 
 ## [Content](#content)
