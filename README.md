@@ -1,6 +1,6 @@
 ### AI trends in Autism detection and clinical intervention
 
-Contributed by Olfa Adouni, Alaa Bessadok, Ridha Ejbali and Hedi Sakli.
+Contributed by Olfa Adouni, Alaa Bessadok, Mouhamed Hamroun, Ridha Ejbali and Hedi Sakli.
 
 ## Overview
 
